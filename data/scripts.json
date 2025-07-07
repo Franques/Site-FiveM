@@ -1,0 +1,84 @@
+{
+  "scripts": [
+    {
+      "id": 1,
+      "title": "Advanced Banking System",
+      "description": "Système bancaire complet avec interface moderne, virements, prêts et historique des transactions.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Economy",
+      "framework": ["ESX", "QBCore"],
+      "price": "€25",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Interface moderne", "Multi-framework", "Base de données optimisée"],
+      "tags": ["banking", "economy", "ui"]
+    },
+    {
+      "id": 2,
+      "title": "Custom Job System",
+      "description": "Système de métiers personnalisable avec progression, salaires et missions dynamiques.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Jobs",
+      "framework": ["ESX"],
+      "price": "€35",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Métiers personnalisables", "Système de progression", "Missions aléatoires"],
+      "tags": ["jobs", "progression", "missions"]
+    },
+    {
+      "id": 3,
+      "title": "Vehicle Rental System",
+      "description": "Système de location de véhicules avec gestion des contrats et paiements automatiques.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Vehicles",
+      "framework": ["ESX", "QBCore"],
+      "price": "€20",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Location temporaire", "Gestion des contrats", "Interface intuitive"],
+      "tags": ["vehicles", "rental", "contracts"]
+    },
+    {
+      "id": 4,
+      "title": "Advanced Housing",
+      "description": "Système de logement avancé avec décoration, stockage et système de propriété.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Housing",
+      "framework": ["QBCore"],
+      "price": "€45",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Décoration personnalisée", "Stockage avancé", "Système de propriété"],
+      "tags": ["housing", "decoration", "storage"]
+    },
+    {
+      "id": 5,
+      "title": "Police MDT",
+      "description": "Terminal de données mobiles pour la police avec gestion des rapports et recherches.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Emergency",
+      "framework": ["ESX", "QBCore"],
+      "price": "€30",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Interface réaliste", "Gestion des rapports", "Base de données intégrée"],
+      "tags": ["police", "mdt", "reports"]
+    },
+    {
+      "id": 6,
+      "title": "Restaurant Management",
+      "description": "Système de gestion de restaurant avec commandes, stock et employés.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "category": "Business",
+      "framework": ["ESX"],
+      "price": "€25",
+      "github": "https://github.com/Franques",
+      "download": "#",
+      "features": ["Gestion des commandes", "Système de stock", "Gestion d'équipe"],
+      "tags": ["restaurant", "business", "management"]
+    }
+  ],
+  "categories": ["All", "Economy", "Jobs", "Vehicles", "Housing", "Emergency", "Business"],
+  "frameworks": ["All", "ESX", "QBCore"]
+}
